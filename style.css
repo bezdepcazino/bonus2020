@@ -56,7 +56,7 @@ filter: gray; /* IE 6-9 */
 	background-color: #333;
 	padding: 20px 60px 10px 20px;
 	color: #e0dede;
-	margin-top: 50px;
+	margin-top: 15px;
 }
 .footer span {
 	color: #428bca;
@@ -70,7 +70,7 @@ filter: gray; /* IE 6-9 */
     height: 40px;
     float: right;
     margin-right: 10px;
-    margin-top: 60px;
+    margin-top: 40px;
 }
 span.ban-top {
 	text-align: center;
